@@ -1,1 +1,3 @@
-# react-scheduler
+Steps:
+	npm install
+	npm run start
